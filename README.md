@@ -6,7 +6,7 @@
 - [x] Begrüßung
 - [x] Visual Studio [Link](https://visualstudio.microsoft.com/de/)
 - [x] Visual Studio Einrichtung
-- [ ] VS-Shortcuts <!-- [Link](VS-SHORTCUTS.md)-->
+- [x] VS-Shortcuts [Link](VS-SHORTCUTS.md)
 
 
 ## M001 | .NET GRUNDLAGEN
@@ -17,7 +17,7 @@
 - [x] DemoConsole.cs [Link](Uebungen/Modul001_02_DemoConsole/Program.cs)
 - [x] Startprojekt festlegen
 - [x] Sprachgrundlagen
-- [ ] C# Cheatsheet <!-- [Link](CSHARP-CHEATSHEET.md) -->
+- [x] C# Cheatsheet [Link](CSHARP-CHEATSHEET.md)
 
 
 ## M002 | DATENTYPEN, KONVERTIERUNGEN und OPERATOREN
