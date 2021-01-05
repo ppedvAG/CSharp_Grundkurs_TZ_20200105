@@ -24,19 +24,19 @@ namespace Modul003_Fragen
             decimal preis;
             if (verbrauch >= 600)
             {
-                preis = 2; 
+                preis = 1.2; 
             }
             else if(verbrauch >= 400)
             {
-                preis = 1.8;
+                preis = 1.5;
             }
             else if(verbrauch >= 200)
             {
-                preis = 1.5; 
+                preis = 1.8; 
             }
             else if(verbrauch >= 0)
             {
-                preis = 1.2;
+                preis = 2;
             }
 
             decimal gesamtpreis = verbrauch * preis;
