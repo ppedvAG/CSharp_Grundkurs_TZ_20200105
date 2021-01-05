@@ -22,21 +22,21 @@ namespace Modul003_Fragen
             int verbrauch = int.Parse(Console.ReadLine());
 
             decimal preis;
-            if (verbrauch <= 199)
+            if (verbrauch >= 600)
             {
-                preis = 1.2m;
+                preis = 2; 
             }
-            else if (verbrauch <= 399)
+            else if(verbrauch >= 400)
             {
-                preis = 1.5m;
+                preis = 1.8;
             }
-            else if (verbrauch <= 599)
+            else if(verbrauch >= 200)
             {
-                preis = 1.8m;
+                preis = 1.5; 
             }
-            else
+            else if(verbrauch >= 0)
             {
-                preis = 2m;
+                preis = 1.2;
             }
 
             decimal gesamtpreis = verbrauch * preis;
