@@ -34,18 +34,18 @@
 - [x] Fragen  [Link](Uebungen/Modul003_Fragen/Program.cs) 
 
 ## M004 | ARRAYS, SCHLEIFEN und ENUMS
-- [ ] Arrays <!-- [Link](Uebungen/Modul004_01_Arrays/Program.cs) -->
-- [ ] Enums <!-- [Link](Uebungen/Modul004_02_Enumeratoren/Program.cs) -->
-- [ ] for-Schleife <!-- [Link](Uebungen/Modul004_03_Schleifen/Program.cs) -->
-- [ ] foreach-Schleife <!-- [Link](Uebungen/Modul004_03_Schleifen/Program.cs) -->
-- [ ] while-Schleifen <!-- [Link](Uebungen/Modul004_03_Schleifen/Program.cs) -->
-- [ ] do-while-Schleife <!-- [Link](Uebungen/Modul004_03_Schleifen/Program.cs) -->
-- [ ] Fragen <!-- [Link](Uebungen/Modul004_Fragen/Program.cs) -->
+- [x] Arrays  [Link](Uebungen/Modul004_01_Arrays/Program.cs) 
+- [x] Enums  [Link](Uebungen/Modul004_02_Enumeratoren/Program.cs) 
+- [x] for-Schleife  [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
+- [x] foreach-Schleife  [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
+- [x] while-Schleifen  [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
+- [x] do-while-Schleife  [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
+- [x] Fragen  [Link](Uebungen/Modul004_Fragen/Program.cs) 
 
 ## M005 | STATISCHE MEMBER
-- [ ] Funktionen  <!-- [Link](Uebungen/Modul005_01_statischeMember/Program.cs) -->
-- [ ] Eigenschaften  <!-- [Link](Uebungen/Modul005_01_statischeMember/Program.cs) -->
-- [ ] Fragen <!-- [Link](Uebungen/Modul005_Fragen/Program.cs) -->
+- [x] Funktionen   [Link](Uebungen/Modul005_01_statischeMember/Program.cs) 
+- [x] Eigenschaften   [Link](Uebungen/Modul005_01_statischeMember/Program.cs) 
+- [x] Fragen  [Link](Uebungen/Modul005_Fragen/Program.cs) 
 
 ## M006 | OOP - NAMESPACES, KLASSEN, FELDER und KAPSELUNGEN
 - [ ] Namespaces <!-- [Link](Uebungen/Modul006_01_NamespaceKlassen/Program.cs) -->
