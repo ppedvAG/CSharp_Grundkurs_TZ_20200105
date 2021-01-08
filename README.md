@@ -74,18 +74,18 @@
 - [x] Fragen  [Link](Uebungen/Modul008_Fragen) 
 
 ## M009 | OOP - POLYMORPHISMUS VIRTUAL
-- [ ] Polymorphismus
-- [ ] virtuelle Member <!-- [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortOverride.cs) -->
-- [ ] Member ausblenden <!-- [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortNew.cs) -->
-- [ ] Überschreibungen verhindern <!-- [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortSealed.cs) -->
-- [ ] Fragen <!-- [Link](Uebungen/Modul009_Fragen) -->
+- [x] Polymorphismus
+- [x] virtuelle Member  [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortOverride.cs) 
+- [x] Member ausblenden  [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortNew.cs) 
+- [x] Überschreibungen verhindern  [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortSealed.cs) 
+- [x] Fragen  [Link](Uebungen/Modul009_Fragen) 
 
 ## M010 | OOP - POLYMORPHISMUS ABSTRACT
-- [ ] abstrakte Member und Klassen <!-- [Link](Uebungen/Modul010_01_PolymorphismusAbstract/Program.cs) -->
-- [ ] Typtest "GetType()" <!-- [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) -->
-- [ ] Typtest "typeof" <!-- [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) -->
-- [ ] Typtest "is" <!-- [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) -->
-- [ ] Fragen <!-- [Link](Uebungen/Modul010_Fragen) -->
+- [x] abstrakte Member und Klassen  [Link](Uebungen/Modul010_01_PolymorphismusAbstract/Program.cs) 
+- [x] Typtest "GetType()"  [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) 
+- [x] Typtest "typeof"  [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) 
+- [x] Typtest "is"  [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) 
+- [x] Fragen  [Link](Uebungen/Modul010_Fragen) 
 
 
 ## M011 | INTERFACES
