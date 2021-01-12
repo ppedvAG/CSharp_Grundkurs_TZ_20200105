@@ -1,4 +1,4 @@
-# CSharp_Grundkurs_TZ_20200105
+# CSharp_Grundkurs_TZ_20210105
  C# Grundlagenkurs in Teilzeit vom 05.01.2021 bis 14.01.2021 - Trainer: Benedikt Siebert
 
 ## M000 | VORSTELLUNG
@@ -21,71 +21,71 @@
 
 
 ## M002 | DATENTYPEN, KONVERTIERUNGEN und OPERATOREN
-- [x] Datentypen  [Link](Uebungen/Modul002_01_Datentypen/Program.cs) 
-- [x] Parsing & Casting  [Link](Uebungen/Modul002_02_ParsingCasting/Program.cs) 
-- [x] Operatoren  [Link](Uebungen/Modul002_03_Operatoren/Program.cs) 
-- [x] Fragen  [Link](Uebungen/Modul002_Fragen/Program.cs) 
-      
+- [x] Datentypen [Link](Uebungen/Modul002_01_Datentypen/Program.cs) 
+- [x] Parsing & Casting [Link](Uebungen/Modul002_02_ParsingCasting/Program.cs) 
+- [x] Operatoren [Link](Uebungen/Modul002_03_Operatoren/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul002_Fragen/Program.cs) 
+  
 
 ## M003 | KONTROLLSTRUKTUREN und BOOLESCHE LOGIK
-- [x] logische Operatoren   [Link](Uebungen/Modul003_01_BoolescheLogik/Program.cs) 
-- [x] if-Abfrage  [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs) 
-- [x] switch-Anweisung  [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs) 
-- [x] Fragen  [Link](Uebungen/Modul003_Fragen/Program.cs) 
+- [x] logische Operatoren [Link](Uebungen/Modul003_01_BoolescheLogik/Program.cs) 
+- [x] if-Abfrage [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs) 
+- [x] switch-Anweisung [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul003_Fragen/Program.cs) 
 
 ## M004 | ARRAYS, SCHLEIFEN und ENUMS
-- [x] Arrays  [Link](Uebungen/Modul004_01_Arrays/Program.cs) 
-- [x] Enums  [Link](Uebungen/Modul004_02_Enumeratoren/Program.cs) 
-- [x] for-Schleife  [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
-- [x] foreach-Schleife  [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
-- [x] while-Schleifen  [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
-- [x] do-while-Schleife  [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
-- [x] Fragen  [Link](Uebungen/Modul004_Fragen/Program.cs) 
+- [x] Arrays [Link](Uebungen/Modul004_01_Arrays/Program.cs) 
+- [x] Enums [Link](Uebungen/Modul004_02_Enumeratoren/Program.cs) 
+- [x] for-Schleife [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
+- [x] foreach-Schleife [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
+- [x] while-Schleifen [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
+- [x] do-while-Schleife [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul004_Fragen/Program.cs) 
 
 ## M005 | STATISCHE MEMBER
-- [x] Funktionen   [Link](Uebungen/Modul005_01_statischeMember/Program.cs) 
-- [x] Eigenschaften   [Link](Uebungen/Modul005_01_statischeMember/Program.cs) 
-- [x] Fragen  [Link](Uebungen/Modul005_Fragen/Program.cs) 
+- [x] Funktionen [Link](Uebungen/Modul005_01_statischeMember/Program.cs) 
+- [x] Eigenschaften [Link](Uebungen/Modul005_01_statischeMember/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul005_Fragen/Program.cs) 
 
 ## M006 | OOP - NAMESPACES, KLASSEN, FELDER und KAPSELUNGEN
-- [x] Namespaces  [Link](Uebungen/Modul006_01_NamespaceKlassen/Program.cs) 
-- [x] Klassen  [Link](Uebungen/Modul006_01_NamespaceKlassen/Program.cs) 
-- [x] Felder  [Link](Uebungen/Modul006_02_FelderEigenschaften/Felder.cs) 
-- [x] Eigenschaften   [Link](Uebungen/Modul006_02_FelderEigenschaften/Eigenschaften.cs) 
-- [x] Kapselungen  [Link](Uebungen/Modul006_02_FelderEigenschaften/Eigenschaften.cs) 
-- [x] partielle Klassen und Methoden  [Link](Uebungen/Modul006_03_partielleKlassenMethoden/Program.cs) 
-- [x] Fragen  [Link](Uebungen/Modul006_Fragen) 
+- [x] Namespaces [Link](Uebungen/Modul006_01_NamespaceKlassen/Program.cs) 
+- [x] Klassen [Link](Uebungen/Modul006_01_NamespaceKlassen/Program.cs) 
+- [x] Felder [Link](Uebungen/Modul006_02_FelderEigenschaften/Felder.cs) 
+- [x] Eigenschaften [Link](Uebungen/Modul006_02_FelderEigenschaften/Eigenschaften.cs) 
+- [x] Kapselungen [Link](Uebungen/Modul006_02_FelderEigenschaften/Eigenschaften.cs) 
+- [x] partielle Klassen und Methoden [Link](Uebungen/Modul006_03_partielleKlassenMethoden/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul006_Fragen) 
 
 ## M007 | OOP - OBJEKTE, METHODEN und PARAMETER
-- [x] Objekte  [Link](Uebungen/Modul007_01_Objekte/Program.cs) 
-- [x] Konstruktor und Destruktor  [Link](Uebungen/Modul007_01_Objekte/Program.cs) 
+- [x] Objekte [Link](Uebungen/Modul007_01_Objekte/Program.cs) 
+- [x] Konstruktor und Destruktor [Link](Uebungen/Modul007_01_Objekte/Program.cs) 
 - [x] Garbage Collection
-- [x] Überladung  [Link](Uebungen/Modul007_02_UeberlagerungParameter/Ueberladung.cs) 
-- [x] optionale Parameter  [Link](Uebungen/Modul007_02_UeberlagerungParameter/OptionaleParameter.cs) 
-- [x] out  [Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortOut.cs) 
-- [x] params  [Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortParams.cs) 
-- [x] ref  [Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortRef.cs) 
-- [x] Fragen  [Link](Uebungen/Modul007_Fragen) 
+- [x] Überladung [Link](Uebungen/Modul007_02_UeberlagerungParameter/Ueberladung.cs) 
+- [x] optionale Parameter [Link](Uebungen/Modul007_02_UeberlagerungParameter/OptionaleParameter.cs) 
+- [x] out [Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortOut.cs) 
+- [x] params [Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortParams.cs) 
+- [x] ref [Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortRef.cs) 
+- [x] Fragen [Link](Uebungen/Modul007_Fragen) 
 
 ## M008 | OOP - VERERBUNG und ZUGRIFFSMODIFIER
-- [x] Vererbung  [Link](Uebungen/Modul008_01_Vererbungen/Program.cs) 
+- [x] Vererbung [Link](Uebungen/Modul008_01_Vererbungen/Program.cs) 
 - [x] base 
-- [x] Zugriffsmodifier  [Link](Uebungen/Modul008_02_Zugriffsmodifizierer/Program.cs) 
-- [x] Fragen  [Link](Uebungen/Modul008_Fragen) 
+- [x] Zugriffsmodifier [Link](Uebungen/Modul008_02_Zugriffsmodifizierer/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul008_Fragen) 
 
 ## M009 | OOP - POLYMORPHISMUS VIRTUAL
 - [x] Polymorphismus
-- [x] virtuelle Member  [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortOverride.cs) 
-- [x] Member ausblenden  [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortNew.cs) 
-- [x] Überschreibungen verhindern  [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortSealed.cs) 
-- [x] Fragen  [Link](Uebungen/Modul009_Fragen) 
+- [x] virtuelle Member [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortOverride.cs) 
+- [x] Member ausblenden [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortNew.cs) 
+- [x] Überschreibungen verhindern [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortSealed.cs) 
+- [x] Fragen [Link](Uebungen/Modul009_Fragen) 
 
 ## M010 | OOP - POLYMORPHISMUS ABSTRACT
-- [x] abstrakte Member und Klassen  [Link](Uebungen/Modul010_01_PolymorphismusAbstract/Program.cs) 
-- [x] Typtest "GetType()"  [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) 
-- [x] Typtest "typeof"  [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) 
-- [x] Typtest "is"  [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) 
-- [x] Fragen  [Link](Uebungen/Modul010_Fragen) 
+- [x] abstrakte Member und Klassen [Link](Uebungen/Modul010_01_PolymorphismusAbstract/Program.cs) 
+- [x] Typtest "GetType()" [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) 
+- [x] Typtest "typeof" [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) 
+- [x] Typtest "is" [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul010_Fragen) 
 
 
 ## M011 | INTERFACES
@@ -94,28 +94,28 @@
 - [x] Fragen [Link](Uebungen/Modul011_Fragen) 
 
 ## M012 | GENERISCHE LISTEN, DICTIONARY, STACK und QUEUE
-- [x] Listen  [Link](Uebungen/Modul012_01_Listen/List.cs) 
-- [x] Dictionary  [Link](Uebungen/Modul012_01_Listen/Dictionary.cs) 
-- [x] Stack  [Link](Uebungen/Modul012_01_Listen/Stack.cs) 
-- [x] Queue  [Link](Uebungen/Modul012_01_Listen/Queue.cs) 
-- [x] Hashtable  [Link](Uebungen/Modul012_01_Listen/Hashtable.cs) 
-- [x] Tuple  [Link](Uebungen/Modul012_01_Listen/Tuple.cs) 
-- [x] Fragen  [Link](Uebungen/Modul012_Fragen) 
+- [x] Listen [Link](Uebungen/Modul012_01_Listen/List.cs) 
+- [x] Dictionary [Link](Uebungen/Modul012_01_Listen/Dictionary.cs) 
+- [x] Stack [Link](Uebungen/Modul012_01_Listen/Stack.cs) 
+- [x] Queue [Link](Uebungen/Modul012_01_Listen/Queue.cs) 
+- [x] Hashtable [Link](Uebungen/Modul012_01_Listen/Hashtable.cs) 
+- [x] Tuple [Link](Uebungen/Modul012_01_Listen/Tuple.cs) 
+- [x] Fragen [Link](Uebungen/Modul012_Fragen) 
 
 ## M013 | DELEGATES und EVENTS (optional)
-- [ ] Action <!-- [Link](Uebungen/Modul013_01_Delegates/Action.cs) -->
-- [ ] Predicate <!-- [Link](Uebungen/Modul013_01_Delegates/Predicate.cs) -->
-- [ ] Func <!-- [Link](Uebungen/Modul013_01_Delegates/Func.cs) -->
-- [ ] anonyme Methoden <!-- [Link](Uebungen/Modul013_01_Delegates/AnonymeMethoden.cs) -->
-- [ ] EventHandler <!-- [Link](Uebungen/Modul013_02_Events/Program.cs) -->
-- [ ] Timer <!-- [Link](Uebungen/Modul013_03_Timer/Program.cs) -->
+- [x] Action [Link](Uebungen/Modul013_01_Delegates/Action.cs) 
+- [x] Predicate [Link](Uebungen/Modul013_01_Delegates/Predicate.cs) 
+- [x] Func [Link](Uebungen/Modul013_01_Delegates/Func.cs) 
+- [x] anonyme Methoden [Link](Uebungen/Modul013_01_Delegates/AnonymeMethoden.cs) 
+- [x] EventHandler [Link](Uebungen/Modul013_02_Events/Program.cs) 
+- [x] Timer [Link](Uebungen/Modul013_03_Timer/Program.cs) 
 
 
 ## M014 | FEHLERBEHANDLUNG
-- [ ] Fehlertypen
-- [ ] try-catch <!-- [Link](Uebungen/Modul014_01_Fehlerbehandlung/Program.cs) -->
-- [ ] Debugger 
-- [ ] UnitTests <!-- [Link](Uebungen/Modul014_02_UnitTest_Funktionen/Program.cs) -->
+- [x] Fehlertypen
+- [x] try-catch [Link](Uebungen/Modul014_01_Fehlerbehandlung/Program.cs) 
+- [x] Debugger 
+- [x] UnitTests [Link](Uebungen/Modul014_02_UnitTest_Funktionen/Program.cs) 
 
 
 ## M015 | DATEIEN und VERZEICHNISSE (optional)
