@@ -119,11 +119,11 @@
 
 
 ## M015 | DATEIEN und VERZEICHNISSE (optional)
-- [x] Dateien lesen/schreiben x] [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs) x]
-- [x] Dateidialog x] [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs) x]
-- [x] JSON x] [Link](Uebungen/Modul015_02_JSON/Program.cs) x]
-- [x] XML x] [Link](Uebungen/Modul015_03_XML/Program.cs) x]
-- [x] Fragen x] [Link](Uebungen/Modul015_Fragen) x]
+- [x] Dateien lesen/schreiben [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs)
+- [x] Dateidialog [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs)
+- [x] JSON [Link](Uebungen/Modul015_02_JSON/Program.cs)
+- [x] XML [Link](Uebungen/Modul015_03_XML/Program.cs)
+- [x] Fragen [Link](Uebungen/Modul015_Fragen)
 
 
 ## M016 | ABSCHLUSSPROJEKT (optional)
