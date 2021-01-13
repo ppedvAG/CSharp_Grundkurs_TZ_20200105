@@ -119,17 +119,17 @@
 
 
 ## M015 | DATEIEN und VERZEICHNISSE (optional)
-- [ ] Dateien lesen/schreiben <!-- [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs) -->
-- [ ] Dateidialog <!-- [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs) -->
-- [ ] JSON <!-- [Link](Uebungen/Modul015_02_JSON/Program.cs) -->
-- [ ] XML <!-- [Link](Uebungen/Modul015_03_XML/Program.cs) -->
-- [ ] Fragen <!-- [Link](Uebungen/Modul015_Fragen) -->
+- [x] Dateien lesen/schreiben x] [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs) x]
+- [x] Dateidialog x] [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs) x]
+- [x] JSON x] [Link](Uebungen/Modul015_02_JSON/Program.cs) x]
+- [x] XML x] [Link](Uebungen/Modul015_03_XML/Program.cs) x]
+- [x] Fragen x] [Link](Uebungen/Modul015_Fragen) x]
 
 
 ## M016 | ABSCHLUSSPROJEKT (optional)
 - [ ] eigene Anwendung programmieren <!-- [Link](Uebungen/Modul016_Abschluss) -->
 
 ## M017 | ZUSÄTZLICHE THEMEN (optional)
-- [ ] Klassendiagramme
-- [ ] Deployment
-- [ ] .NET Framework/.NET Core/.NET 5
+- [x] Klassendiagramme
+- [x] Deployment
+- [x] .NET Framework/.NET Core/.NET 5
