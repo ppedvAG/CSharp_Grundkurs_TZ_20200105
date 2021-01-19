@@ -127,7 +127,9 @@
 
 
 ## M016 | ABSCHLUSSPROJEKT (optional)
-- [ ] eigene Anwendung programmieren <!-- [Link](Uebungen/Modul016_Abschluss) -->
+- [x] API [Link](Uebungen/Modul016_API)
+- [x] Console [Link](Uebungen/Modul016_Console)
+- [x] WPF [Link](Uebungen/Modul016_WPF)
 
 ## M017 | ZUSÄTZLICHE THEMEN (optional)
 - [x] Klassendiagramme
